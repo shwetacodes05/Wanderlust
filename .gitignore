@@ -1,0 +1,14 @@
+# Secrets — never commit real credentials
+config.php
+
+# Geocoding cache (regenerates automatically, no need to version it)
+cache/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
